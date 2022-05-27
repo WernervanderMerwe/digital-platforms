@@ -8,3 +8,7 @@ all while printing the answers out in console as asked.
 
 I have very limited prior database knowledge, I have worked with DBeaver as a database administration tool and I have used some SQLite in the past
 so I chose to use it for the relational database question
+
+# C# and .Net
+
+I have downloaded Visual Studio and with some guidance to get started I refactored some of my code to work with the console app and .Net Razor Webpage[]
