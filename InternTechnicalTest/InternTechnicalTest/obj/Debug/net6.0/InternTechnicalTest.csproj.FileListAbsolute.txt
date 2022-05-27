@@ -1,0 +1,15 @@
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\bin\Debug\net6.0\InternTechnicalTest.exe
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\bin\Debug\net6.0\InternTechnicalTest.deps.json
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\bin\Debug\net6.0\InternTechnicalTest.runtimeconfig.json
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\bin\Debug\net6.0\InternTechnicalTest.dll
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\bin\Debug\net6.0\InternTechnicalTest.pdb
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.csproj.AssemblyReference.cache
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.AssemblyInfoInputs.cache
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.AssemblyInfo.cs
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.csproj.CoreCompileInputs.cache
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.dll
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\refint\InternTechnicalTest.dll
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.pdb
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\InternTechnicalTest.genruntimeconfig.cache
+C:\Users\Bullzeye\source\repos\InternTechnicalTest\InternTechnicalTest\obj\Debug\net6.0\ref\InternTechnicalTest.dll
