@@ -19,8 +19,9 @@ namespace InternTechnicalTest
             }
             var appearsOnce = Method(true, inputQ2);
             var appearsMoreThanOnce = Method(false, inputQ2);
-            Console.WriteLine($"once: {appearsOnce}");
-            Console.WriteLine($"more than once: {appearsMoreThanOnce}");
+            Console.WriteLine($"string = {inputQ2}");
+            Console.WriteLine($"Output once: {appearsOnce}");
+            Console.WriteLine($"Output more than once: {appearsMoreThanOnce}");
         }
         public string Method(bool appearsOnce, string inputQ2)
         {

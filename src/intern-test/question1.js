@@ -2,13 +2,13 @@ class Question1 {
   diamondAmount = 8;
   diamondChar = "*";
 
-  question1Fn = (numberOfRows, string) => {
+  question1Fn = (numberOfRows, stringInput) => {
     console.log("#Question 1 Row amount:", numberOfRows);
     const array = [];
     const reversedData = [];
 
     for (let i = 0; i < numberOfRows; i++) {
-      const str = string.toString();
+      const str = stringInput.toString();
       let spaceAmount = +numberOfRows + i;
       const stringAmount = str.repeat(i * 2 + 1);
       const paddedString = stringAmount.padStart(spaceAmount);
